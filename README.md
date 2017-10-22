@@ -1,2 +1,3 @@
-# dotnetOct2017
-C# 7 and Visual Studio 2017 Workshop
+# C# 7.x and Visual Studio 2017 Update Workshop
+
+Code samples and labs
