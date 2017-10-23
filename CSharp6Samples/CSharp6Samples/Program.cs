@@ -1,6 +1,6 @@
 ﻿using System;
 using static System.Console;
-using static MyStrings;
+using static CSharp6Samples.MyStrings;
 
 namespace CSharp6Samples
 {
@@ -10,7 +10,9 @@ namespace CSharp6Samples
         {
             WriteLine("Hello World!");
 
-            
+            string s1 = Bar;
+            Console.WriteLine(s1);
+
         }
     }
 }
